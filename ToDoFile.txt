@@ -1,0 +1,3 @@
+mow lawn,high
+wash dishes,medium
+wash hair,low
